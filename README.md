@@ -1,3 +1,3 @@
 # Stone Paper Scissors
 this is a simple game: stone paper scissors
-I import tkinter module.
+I used tkinter module.
